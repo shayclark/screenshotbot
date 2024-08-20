@@ -23,7 +23,7 @@ Screenshot Bot is a Node.js application designed to automate the process of capt
 
    ```bash
    git clone https://github.com/shayclark/screenshotbot.git
-   cd puppeteer-screenshot-bot
+   cd screenshotbot
    ```
 
 2. **Install dependencies:**
@@ -60,7 +60,7 @@ Screenshot Bot is a Node.js application designed to automate the process of capt
      - Example directory structure:
 
        ```
-       puppeteer-screenshot-bot/
+       screenshotbot/
        ├── output/
        │   ├── 20240820123456/  // Timestamped folder
        │   │   ├── output.csv   // Log of the run
